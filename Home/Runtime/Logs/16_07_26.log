@@ -1,0 +1,1234 @@
+[ 2016-07-26T09:27:55+08:00 ] 0.0.0.0 /ctbri_demo/Enter/Home/test
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.013001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.036002s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-26T09:28:26+08:00 ] 0.0.0.0 /ctbri_demo/Enter/Home/dispach
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015001s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.001000s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.068004s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.068004s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000000s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.001000s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000000s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.001000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-26T09:28:28+08:00 ] ERR: (ThinkException) 非法操作:www.baidu
+[ 2016-07-26T09:28:52+08:00 ] ERR: (ThinkException) 非法操作:www.baidu
+[ 2016-07-26T09:28:55+08:00 ] ERR: (ThinkException) 非法操作:www.baidu
+[ 2016-07-26T09:29:08+08:00 ] 0.0.0.0 /ctbri_demo/Enter/Home/dispach
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.001000s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.008001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008001s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.001000s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000000s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.001000s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-26T09:29:09+08:00 ] ERR: (ThinkException) 非法操作:www.baidu
+[ 2016-07-26T09:29:35+08:00 ] 0.0.0.0 /ctbri_demo/Enter/Home/dispach
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003001s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.001000s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000000s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.001000s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.001000s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.001000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-26T09:29:36+08:00 ] ERR: (ThinkException) 非法操作:www.baidu
+[ 2016-07-26T09:29:45+08:00 ] 0.0.0.0 /ctbri_demo/Enter/Home/dispach
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000000s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.009001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000000s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.001000s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.003000s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.001000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-26T09:29:46+08:00 ] 0.0.0.0 /ctbri_demo/Enter/Home/test
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-26T09:30:05+08:00 ] 0.0.0.0 /ctbri_demo/Enter/Home/dispach
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.001000s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.001000s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.001000s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000000s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003000s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.001000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-26T09:30:06+08:00 ] 0.0.0.0 /ctbri_demo/Enter/Home/test
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-26T09:31:43+08:00 ] 0.0.0.0 /ctbri_demo/Enter/Home/dispach
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.001000s ]
+INFO: [ view_template ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.009001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.001000s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.001000s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.001000s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003000s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-26T09:31:44+08:00 ] ERR: (ThinkException) 非法操作:message
+[ 2016-07-26T09:32:24+08:00 ] 0.0.0.0 /ctbri_demo/Enter/Home/dispach
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: message D:\zendworkspace\ctbri_demo\Home\Lib\Action\Enter\HomeAction.class.php 第 14 行.
+NOTIC: [8] Undefined variable: message D:\zendworkspace\ctbri_demo\Home\Lib\Action\Enter\HomeAction.class.php 第 15 行.
+NOTIC: [8] Undefined index: HTTP_REFERER D:\zendworkspace\ctbri_demo\ThinkPHP\Lib\Core\Action.class.php 第 404 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.001000s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.008001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008001s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.001000s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.001000s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000000s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003000s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-26T09:32:25+08:00 ] 0.0.0.0 /ctbri_demo/Enter/Home/dispach
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: message D:\zendworkspace\ctbri_demo\Home\Lib\Action\Enter\HomeAction.class.php 第 14 行.
+NOTIC: [8] Undefined variable: message D:\zendworkspace\ctbri_demo\Home\Lib\Action\Enter\HomeAction.class.php 第 15 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000000s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.007001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007001s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000000s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000000s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000000s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003000s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-26T09:32:26+08:00 ] 0.0.0.0 /ctbri_demo/Enter/Home/dispach
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: message D:\zendworkspace\ctbri_demo\Home\Lib\Action\Enter\HomeAction.class.php 第 14 行.
+NOTIC: [8] Undefined variable: message D:\zendworkspace\ctbri_demo\Home\Lib\Action\Enter\HomeAction.class.php 第 15 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.001000s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.001000s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000000s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000000s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.001001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002001s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.001000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-26T09:32:27+08:00 ] 0.0.0.0 /ctbri_demo/Enter/Home/dispach
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: message D:\zendworkspace\ctbri_demo\Home\Lib\Action\Enter\HomeAction.class.php 第 14 行.
+NOTIC: [8] Undefined variable: message D:\zendworkspace\ctbri_demo\Home\Lib\Action\Enter\HomeAction.class.php 第 15 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000000s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000000s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.001000s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.001000s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-26T09:32:28+08:00 ] 0.0.0.0 /ctbri_demo/Enter/Home/dispach
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: message D:\zendworkspace\ctbri_demo\Home\Lib\Action\Enter\HomeAction.class.php 第 14 行.
+NOTIC: [8] Undefined variable: message D:\zendworkspace\ctbri_demo\Home\Lib\Action\Enter\HomeAction.class.php 第 15 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000000s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000000s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.001000s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000000s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-26T09:32:29+08:00 ] 0.0.0.0 /ctbri_demo/Enter/Home/dispach
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: message D:\zendworkspace\ctbri_demo\Home\Lib\Action\Enter\HomeAction.class.php 第 14 行.
+NOTIC: [8] Undefined variable: message D:\zendworkspace\ctbri_demo\Home\Lib\Action\Enter\HomeAction.class.php 第 15 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.001000s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.007001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007001s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000000s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.001000s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000000s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-26T09:32:30+08:00 ] 0.0.0.0 /ctbri_demo/Enter/Home/dispach
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: message D:\zendworkspace\ctbri_demo\Home\Lib\Action\Enter\HomeAction.class.php 第 14 行.
+NOTIC: [8] Undefined variable: message D:\zendworkspace\ctbri_demo\Home\Lib\Action\Enter\HomeAction.class.php 第 15 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000000s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.005000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000000s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000000s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.001000s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.001000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-26T09:32:31+08:00 ] 0.0.0.0 /ctbri_demo/Enter/Home/dispach
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: message D:\zendworkspace\ctbri_demo\Home\Lib\Action\Enter\HomeAction.class.php 第 14 行.
+NOTIC: [8] Undefined variable: message D:\zendworkspace\ctbri_demo\Home\Lib\Action\Enter\HomeAction.class.php 第 15 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.001000s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.005001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006001s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000000s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.001000s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000000s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-26T09:32:32+08:00 ] 0.0.0.0 /ctbri_demo/Enter/Home/dispach
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: message D:\zendworkspace\ctbri_demo\Home\Lib\Action\Enter\HomeAction.class.php 第 14 行.
+NOTIC: [8] Undefined variable: message D:\zendworkspace\ctbri_demo\Home\Lib\Action\Enter\HomeAction.class.php 第 15 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.001000s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.006001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006001s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000000s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000000s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000000s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003000s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-26T09:32:33+08:00 ] 0.0.0.0 /ctbri_demo/Enter/Home/dispach
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: message D:\zendworkspace\ctbri_demo\Home\Lib\Action\Enter\HomeAction.class.php 第 14 行.
+NOTIC: [8] Undefined variable: message D:\zendworkspace\ctbri_demo\Home\Lib\Action\Enter\HomeAction.class.php 第 15 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000000s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.006001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006001s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.001000s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000000s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000000s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.001000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-26T09:32:34+08:00 ] 0.0.0.0 /ctbri_demo/Enter/Home/dispach
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: message D:\zendworkspace\ctbri_demo\Home\Lib\Action\Enter\HomeAction.class.php 第 14 行.
+NOTIC: [8] Undefined variable: message D:\zendworkspace\ctbri_demo\Home\Lib\Action\Enter\HomeAction.class.php 第 15 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000000s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.001000s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000000s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000000s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.001000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-26T09:32:35+08:00 ] 0.0.0.0 /ctbri_demo/Enter/Home/dispach
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: message D:\zendworkspace\ctbri_demo\Home\Lib\Action\Enter\HomeAction.class.php 第 14 行.
+NOTIC: [8] Undefined variable: message D:\zendworkspace\ctbri_demo\Home\Lib\Action\Enter\HomeAction.class.php 第 15 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000000s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.001000s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000000s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000000s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.001000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-26T09:32:37+08:00 ] 0.0.0.0 /ctbri_demo/Enter/Home/dispach
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: message D:\zendworkspace\ctbri_demo\Home\Lib\Action\Enter\HomeAction.class.php 第 14 行.
+NOTIC: [8] Undefined variable: message D:\zendworkspace\ctbri_demo\Home\Lib\Action\Enter\HomeAction.class.php 第 15 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000000s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.006001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006001s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.001000s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000000s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.001000s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.001000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-26T09:32:38+08:00 ] 0.0.0.0 /ctbri_demo/Enter/Home/dispach
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: message D:\zendworkspace\ctbri_demo\Home\Lib\Action\Enter\HomeAction.class.php 第 14 行.
+NOTIC: [8] Undefined variable: message D:\zendworkspace\ctbri_demo\Home\Lib\Action\Enter\HomeAction.class.php 第 15 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.001000s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.006001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006001s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000000s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.001000s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000000s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-26T09:32:39+08:00 ] 0.0.0.0 /ctbri_demo/Enter/Home/dispach
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: message D:\zendworkspace\ctbri_demo\Home\Lib\Action\Enter\HomeAction.class.php 第 14 行.
+NOTIC: [8] Undefined variable: message D:\zendworkspace\ctbri_demo\Home\Lib\Action\Enter\HomeAction.class.php 第 15 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.001000s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.001000s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000000s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.001000s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.001000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-26T09:32:40+08:00 ] 0.0.0.0 /ctbri_demo/Enter/Home/dispach
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: message D:\zendworkspace\ctbri_demo\Home\Lib\Action\Enter\HomeAction.class.php 第 14 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000000s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.007001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007001s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.001000s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000000s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.001000s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.001000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-07-26T09:32:41+08:00 ] 0.0.0.0 /ctbri_demo/Enter/Home/test
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-07-26T09:34:26+08:00 ] 0.0.0.0 /ctbri_demo/Enter/Home/dispach
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.001000s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000000s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.001000s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.001000s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.001000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-26T09:34:27+08:00 ] 0.0.0.0 /ctbri_demo/Enter/Home/test
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-07-26T09:34:37+08:00 ] 0.0.0.0 /ctbri_demo/Enter/Home/test
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-26T09:34:41+08:00 ] 0.0.0.0 /ctbri_demo/Enter/Home/dispach
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.001000s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.008001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008001s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000000s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.001000s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000000s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.001000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-26T09:34:42+08:00 ] 0.0.0.0 /ctbri_demo/Enter/Home/test
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-26T09:41:48+08:00 ] 0.0.0.0 /ctbri_demo/Enter/Home/test
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-26T09:42:07+08:00 ] 0.0.0.0 /ctbri_demo/Enter/Home/test
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-26T09:43:05+08:00 ] 0.0.0.0 /ctbri_demo/Enter/Home/dispach
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.036002s ]
+INFO: [ view_template ] --END-- [ RunTime:0.036002s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.313018s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.313018s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.009001s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.014001s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.011000s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.030002s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.064004s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.009000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.009000s ]
+
+[ 2016-07-26T09:43:07+08:00 ] 0.0.0.0 /ctbri_demo/Enter/Home/test
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-07-26T09:43:11+08:00 ] 0.0.0.0 /ctbri_demo/Enter/Home/dispach
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.001000s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.001000s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000000s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000000s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003000s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.001000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-26T09:43:12+08:00 ] 0.0.0.0 /ctbri_demo/Enter/Home/test
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-07-26T11:06:52+08:00 ] 0.0.0.0 /ctbri_demo/Enter/Home/dispach
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.023001s ]
+INFO: [ view_template ] --END-- [ RunTime:0.023001s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.073005s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.074005s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.003000s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.020001s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.003000s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.007001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.034002s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.002000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2016-07-26T11:06:54+08:00 ] 0.0.0.0 /ctbri_demo/Enter/Home/test
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-07-26T11:07:02+08:00 ] 0.0.0.0 /ctbri_demo/Enter/Home/testsql
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `think_user_info` [ RunTime:0.008001s ]
+SQL: SELECT * FROM `think_user_info`  [ RunTime:0.000000s ]
+
+[ 2016-07-26T11:11:24+08:00 ] 0.0.0.0 /ctbri_demo/Enter/Home/testsql
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `think_user_info` [ RunTime:0.006001s ]
+SQL: SELECT * FROM `think_user_info`  [ RunTime:0.000000s ]
+
+[ 2016-07-26T11:11:25+08:00 ] 0.0.0.0 /ctbri_demo/Enter/Home/testsql
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `think_user_info` [ RunTime:0.005001s ]
+SQL: SELECT * FROM `think_user_info`  [ RunTime:0.000000s ]
+
+[ 2016-07-26T11:11:26+08:00 ] 0.0.0.0 /ctbri_demo/Enter/Home/testsql
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `think_user_info` [ RunTime:0.005001s ]
+SQL: SELECT * FROM `think_user_info`  [ RunTime:0.000000s ]
+
+[ 2016-07-26T11:11:26+08:00 ] 0.0.0.0 /ctbri_demo/Enter/Home/testsql
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `think_user_info` [ RunTime:0.005000s ]
+SQL: SELECT * FROM `think_user_info`  [ RunTime:0.001000s ]
+
+[ 2016-07-26T11:14:51+08:00 ] ERR: (ThinkException) 非法操作:testsql1
+[ 2016-07-26T11:15:08+08:00 ] 0.0.0.0 /ctbri_demo/Enter/Home/testsql2
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `think_mem_eduinfo` [ RunTime:0.006000s ]
+ERR: Table 'phptest.think_mem_eduinfo' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `think_mem_eduinfo`
+SQL: SELECT * FROM `think_mem_eduinfo` LIMIT 5   [ RunTime:0.000000s ]
+ERR: Table 'phptest.think_mem_eduinfo' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `think_mem_eduinfo` LIMIT 5  
+
+[ 2016-07-26T11:16:06+08:00 ] 0.0.0.0 /ctbri_demo/Enter/Home/testsql2
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `think_mem_eduinfo` [ RunTime:0.006000s ]
+ERR: Table 'phptest.think_mem_eduinfo' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `think_mem_eduinfo`
+SQL: SELECT * FROM `think_mem_eduinfo` WHERE ( `uid` = 53 )  [ RunTime:0.000000s ]
+ERR: Table 'phptest.think_mem_eduinfo' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `think_mem_eduinfo` WHERE ( `uid` = 53 ) 
+
+[ 2016-07-26T11:16:07+08:00 ] 0.0.0.0 /ctbri_demo/Enter/Home/testsql2
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `think_mem_eduinfo` [ RunTime:0.006000s ]
+ERR: Table 'phptest.think_mem_eduinfo' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `think_mem_eduinfo`
+SQL: SELECT * FROM `think_mem_eduinfo` WHERE ( `uid` = 53 )  [ RunTime:0.000000s ]
+ERR: Table 'phptest.think_mem_eduinfo' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `think_mem_eduinfo` WHERE ( `uid` = 53 ) 
+
+[ 2016-07-26T11:16:19+08:00 ] 0.0.0.0 /ctbri_demo/Enter/Home/testsql2
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `think_mem_eduinfo` [ RunTime:0.004000s ]
+ERR: Table 'phptest.think_mem_eduinfo' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `think_mem_eduinfo`
+SQL: SELECT * FROM `think_mem_eduinfo` WHERE ( `uid` = 53 )  [ RunTime:0.000000s ]
+ERR: Table 'phptest.think_mem_eduinfo' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `think_mem_eduinfo` WHERE ( `uid` = 53 ) 
+
+[ 2016-07-26T11:16:45+08:00 ] 0.0.0.0 /ctbri_demo/Enter/Home/testsql2
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `think_mem_eduinfo` [ RunTime:0.005000s ]
+ERR: Table 'phptest.think_mem_eduinfo' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `think_mem_eduinfo`
+SQL: SELECT * FROM `think_mem_eduinfo` WHERE ( `uid` = 53 )  [ RunTime:0.000000s ]
+ERR: Table 'phptest.think_mem_eduinfo' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `think_mem_eduinfo` WHERE ( `uid` = 53 ) 
+
+[ 2016-07-26T11:17:21+08:00 ] 0.0.0.0 /ctbri_demo/Enter/Home/testsql2
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `think_mem_eduinfo` [ RunTime:0.006000s ]
+ERR: Table 'phptest.think_mem_eduinfo' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `think_mem_eduinfo`
+SQL: SELECT * FROM `think_mem_eduinfo` WHERE ( `uid` = 53 ) LIMIT 1   [ RunTime:0.000000s ]
+ERR: Table 'phptest.think_mem_eduinfo' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `think_mem_eduinfo` WHERE ( `uid` = 53 ) LIMIT 1  
+
+[ 2016-07-26T11:17:22+08:00 ] 0.0.0.0 /ctbri_demo/Enter/Home/testsql2
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `think_mem_eduinfo` [ RunTime:0.004000s ]
+ERR: Table 'phptest.think_mem_eduinfo' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `think_mem_eduinfo`
+SQL: SELECT * FROM `think_mem_eduinfo` WHERE ( `uid` = 53 ) LIMIT 1   [ RunTime:0.001001s ]
+ERR: Table 'phptest.think_mem_eduinfo' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `think_mem_eduinfo` WHERE ( `uid` = 53 ) LIMIT 1  
+
+[ 2016-07-26T11:17:22+08:00 ] 0.0.0.0 /ctbri_demo/Enter/Home/testsql2
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `think_mem_eduinfo` [ RunTime:0.005000s ]
+ERR: Table 'phptest.think_mem_eduinfo' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `think_mem_eduinfo`
+SQL: SELECT * FROM `think_mem_eduinfo` WHERE ( `uid` = 53 ) LIMIT 1   [ RunTime:0.000000s ]
+ERR: Table 'phptest.think_mem_eduinfo' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `think_mem_eduinfo` WHERE ( `uid` = 53 ) LIMIT 1  
+
+[ 2016-07-26T11:17:59+08:00 ] 0.0.0.0 /ctbri_demo/Enter/Home/testsql2
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.002001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002001s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `think_mem_eduinfo` [ RunTime:0.005000s ]
+ERR: Table 'phptest.think_mem_eduinfo' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `think_mem_eduinfo`
+SQL: SELECT * FROM `think_mem_eduinfo`  [ RunTime:0.000000s ]
+ERR: Table 'phptest.think_mem_eduinfo' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `think_mem_eduinfo` 
+
+[ 2016-07-26T11:18:01+08:00 ] 0.0.0.0 /ctbri_demo/Enter/Home/testsql2
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `think_mem_eduinfo` [ RunTime:0.005001s ]
+ERR: Table 'phptest.think_mem_eduinfo' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `think_mem_eduinfo`
+SQL: SELECT * FROM `think_mem_eduinfo`  [ RunTime:0.000000s ]
+ERR: Table 'phptest.think_mem_eduinfo' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `think_mem_eduinfo` 
+
+[ 2016-07-26T11:18:36+08:00 ] 0.0.0.0 /ctbri_demo/Enter/Home/testsql2
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `think_mem_eduinfo` [ RunTime:0.005000s ]
+ERR: Table 'phptest.think_mem_eduinfo' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `think_mem_eduinfo`
+SQL: SELECT * FROM `think_mem_eduinfo` WHERE ( `uid` = 53 ) LIMIT 1   [ RunTime:0.000000s ]
+ERR: Table 'phptest.think_mem_eduinfo' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `think_mem_eduinfo` WHERE ( `uid` = 53 ) LIMIT 1  
+
+[ 2016-07-26T11:18:53+08:00 ] 0.0.0.0 /ctbri_demo/Enter/Home/testsql2
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `think_mem_eduinfo` [ RunTime:0.005000s ]
+ERR: Table 'phptest.think_mem_eduinfo' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `think_mem_eduinfo`
+SQL: SELECT * FROM `think_mem_eduinfo` WHERE ( `uid` = 53 )  [ RunTime:0.000000s ]
+ERR: Table 'phptest.think_mem_eduinfo' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `think_mem_eduinfo` WHERE ( `uid` = 53 ) 
+
+[ 2016-07-26T11:19:49+08:00 ] 0.0.0.0 /ctbri_demo/Enter/Home/testsql2
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `think_mem_eduinfo` [ RunTime:0.004000s ]
+ERR: Table 'phptest.think_mem_eduinfo' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `think_mem_eduinfo`
+SQL: SELECT * FROM `think_mem_eduinfo` WHERE ( `uid` = 53 )  [ RunTime:0.001000s ]
+ERR: Table 'phptest.think_mem_eduinfo' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `think_mem_eduinfo` WHERE ( `uid` = 53 ) 
+
+[ 2016-07-26T11:19:50+08:00 ] 0.0.0.0 /ctbri_demo/Enter/Home/testsql2
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `think_mem_eduinfo` [ RunTime:0.005001s ]
+ERR: Table 'phptest.think_mem_eduinfo' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `think_mem_eduinfo`
+SQL: SELECT * FROM `think_mem_eduinfo` WHERE ( `uid` = 53 )  [ RunTime:0.000000s ]
+ERR: Table 'phptest.think_mem_eduinfo' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `think_mem_eduinfo` WHERE ( `uid` = 53 ) 
+
+[ 2016-07-26T11:19:50+08:00 ] 0.0.0.0 /ctbri_demo/Enter/Home/testsql2
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `think_mem_eduinfo` [ RunTime:0.004000s ]
+ERR: Table 'phptest.think_mem_eduinfo' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `think_mem_eduinfo`
+SQL: SELECT * FROM `think_mem_eduinfo` WHERE ( `uid` = 53 )  [ RunTime:0.001000s ]
+ERR: Table 'phptest.think_mem_eduinfo' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `think_mem_eduinfo` WHERE ( `uid` = 53 ) 
+
+[ 2016-07-26T11:19:50+08:00 ] 0.0.0.0 /ctbri_demo/Enter/Home/testsql2
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `think_mem_eduinfo` [ RunTime:0.005000s ]
+ERR: Table 'phptest.think_mem_eduinfo' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `think_mem_eduinfo`
+SQL: SELECT * FROM `think_mem_eduinfo` WHERE ( `uid` = 53 )  [ RunTime:0.000000s ]
+ERR: Table 'phptest.think_mem_eduinfo' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `think_mem_eduinfo` WHERE ( `uid` = 53 ) 
+
+[ 2016-07-26T11:20:02+08:00 ] 0.0.0.0 /ctbri_demo/Enter/Home/testsql2
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `think_mem_eduinfo` [ RunTime:0.005000s ]
+ERR: Table 'phptest.think_mem_eduinfo' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `think_mem_eduinfo`
+SQL: SELECT * FROM `think_mem_eduinfo`  [ RunTime:0.000000s ]
+ERR: Table 'phptest.think_mem_eduinfo' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `think_mem_eduinfo` 
+
+[ 2016-07-26T11:21:43+08:00 ] 0.0.0.0 /ctbri_demo/Enter/Home/testsql2
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `think_mem_eduinfo` [ RunTime:0.005000s ]
+ERR: Table 'phptest.think_mem_eduinfo' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `think_mem_eduinfo`
+SQL: SELECT * FROM `think_mem_eduinfo` WHERE ( `uid` = 53 )  [ RunTime:0.001001s ]
+ERR: Table 'phptest.think_mem_eduinfo' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `think_mem_eduinfo` WHERE ( `uid` = 53 ) 
+
+[ 2016-07-26T11:34:34+08:00 ] ERR: (ThinkException) php_network_getaddresses: getaddrinfo failed: ��֪�������������� 
+[ 2016-07-26T11:35:42+08:00 ] ERR: (ThinkException) php_network_getaddresses: getaddrinfo failed: ��֪�������������� 
+[ 2016-07-26T11:36:10+08:00 ] ERR: (ThinkException) php_network_getaddresses: getaddrinfo failed: ��֪�������������� 
+[ 2016-07-26T11:38:44+08:00 ] ERR: (ThinkException) php_network_getaddresses: getaddrinfo failed: ��֪�������������� 
+[ 2016-07-26T11:40:56+08:00 ] 0.0.0.0 /ctbri_demo/Enter/Home/testsql2
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: db_dsn D:\zendworkspace\ctbri_demo\ThinkPHP\Lib\Core\Db.class.php 第 127 行.
+NOTIC: [8] Undefined index: db_params D:\zendworkspace\ctbri_demo\ThinkPHP\Lib\Core\Db.class.php 第 128 行.
+SQL: SHOW COLUMNS FROM `ysx_mem_eduinfo` [ RunTime:0.045002s ]
+SQL: SELECT * FROM `ysx_mem_eduinfo` WHERE ( `uid` = 53 )  [ RunTime:0.018001s ]
+
+[ 2016-07-26T11:42:01+08:00 ] 0.0.0.0 /ctbri_demo/Enter/Home/testsql2
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `think_mem_eduinfo` [ RunTime:0.006001s ]
+ERR: Table 'phptest.think_mem_eduinfo' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `think_mem_eduinfo`
+SQL: SELECT * FROM `think_mem_eduinfo` WHERE ( `uid` = 53 )  [ RunTime:0.000000s ]
+ERR: Table 'phptest.think_mem_eduinfo' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `think_mem_eduinfo` WHERE ( `uid` = 53 ) 
+
+[ 2016-07-26T11:46:36+08:00 ] 0.0.0.0 /ctbri_demo/Enter/Home/testsql2
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `think_mem_eduinfo` [ RunTime:0.007001s ]
+ERR: Table 'phptest.think_mem_eduinfo' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `think_mem_eduinfo`
+SQL: SELECT * FROM `think_mem_eduinfo` WHERE ( `uid` = 53 )  [ RunTime:0.001000s ]
+ERR: Table 'phptest.think_mem_eduinfo' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `think_mem_eduinfo` WHERE ( `uid` = 53 ) 
+
+[ 2016-07-26T11:47:23+08:00 ] 0.0.0.0 /ctbri_demo/Enter/Home/testsql2
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `think_mem_eduinfo` [ RunTime:0.004001s ]
+ERR: Table 'phptest.think_mem_eduinfo' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `think_mem_eduinfo`
+SQL: SELECT * FROM `think_mem_eduinfo` WHERE ( `uid` = 53 )  [ RunTime:0.001000s ]
+ERR: Table 'phptest.think_mem_eduinfo' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `think_mem_eduinfo` WHERE ( `uid` = 53 ) 
+
+[ 2016-07-26T11:47:25+08:00 ] 0.0.0.0 /ctbri_demo/Enter/Home/testsql2
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `think_mem_eduinfo` [ RunTime:0.005000s ]
+ERR: Table 'phptest.think_mem_eduinfo' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `think_mem_eduinfo`
+SQL: SELECT * FROM `think_mem_eduinfo` WHERE ( `uid` = 53 )  [ RunTime:0.000000s ]
+ERR: Table 'phptest.think_mem_eduinfo' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `think_mem_eduinfo` WHERE ( `uid` = 53 ) 
+
+[ 2016-07-26T11:47:25+08:00 ] 0.0.0.0 /ctbri_demo/Enter/Home/testsql2
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `think_mem_eduinfo` [ RunTime:0.004001s ]
+ERR: Table 'phptest.think_mem_eduinfo' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `think_mem_eduinfo`
+SQL: SELECT * FROM `think_mem_eduinfo` WHERE ( `uid` = 53 )  [ RunTime:0.000000s ]
+ERR: Table 'phptest.think_mem_eduinfo' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `think_mem_eduinfo` WHERE ( `uid` = 53 ) 
+
+[ 2016-07-26T11:47:26+08:00 ] 0.0.0.0 /ctbri_demo/Enter/Home/testsql2
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `think_mem_eduinfo` [ RunTime:0.005000s ]
+ERR: Table 'phptest.think_mem_eduinfo' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `think_mem_eduinfo`
+SQL: SELECT * FROM `think_mem_eduinfo` WHERE ( `uid` = 53 )  [ RunTime:0.001000s ]
+ERR: Table 'phptest.think_mem_eduinfo' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `think_mem_eduinfo` WHERE ( `uid` = 53 ) 
+
+[ 2016-07-26T11:47:26+08:00 ] 0.0.0.0 /ctbri_demo/Enter/Home/testsql2
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `think_mem_eduinfo` [ RunTime:0.005000s ]
+ERR: Table 'phptest.think_mem_eduinfo' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `think_mem_eduinfo`
+SQL: SELECT * FROM `think_mem_eduinfo` WHERE ( `uid` = 53 )  [ RunTime:0.000000s ]
+ERR: Table 'phptest.think_mem_eduinfo' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `think_mem_eduinfo` WHERE ( `uid` = 53 ) 
+
+[ 2016-07-26T11:47:52+08:00 ] 0.0.0.0 /ctbri_demo/Enter/Home/testsql2
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `think_mem_eduinfo` [ RunTime:0.005000s ]
+ERR: Table 'phptest.think_mem_eduinfo' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `think_mem_eduinfo`
+SQL: SELECT * FROM `think_mem_eduinfo` WHERE ( `uid` = 53 )  [ RunTime:0.000000s ]
+ERR: Table 'phptest.think_mem_eduinfo' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `think_mem_eduinfo` WHERE ( `uid` = 53 ) 
+
+[ 2016-07-26T11:47:58+08:00 ] 0.0.0.0 /ctbri_demo/Enter/Home/testsql2
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `think_mem_eduinfo` [ RunTime:0.004000s ]
+ERR: Table 'phptest.think_mem_eduinfo' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `think_mem_eduinfo`
+SQL: SELECT * FROM `think_mem_eduinfo` WHERE ( `uid` = 53 )  [ RunTime:0.000000s ]
+ERR: Table 'phptest.think_mem_eduinfo' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `think_mem_eduinfo` WHERE ( `uid` = 53 ) 
+
+[ 2016-07-26T11:48:10+08:00 ] 0.0.0.0 /ctbri_demo/Enter/Home/testsql2
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: db_dsn D:\zendworkspace\ctbri_demo\ThinkPHP\Lib\Core\Db.class.php 第 127 行.
+NOTIC: [8] Undefined index: db_params D:\zendworkspace\ctbri_demo\ThinkPHP\Lib\Core\Db.class.php 第 128 行.
+SQL: SHOW COLUMNS FROM `ysx_mem_eduinfo` [ RunTime:0.005000s ]
+SQL: SELECT * FROM `ysx_mem_eduinfo` WHERE ( `uid` = 53 )  [ RunTime:0.039003s ]
+
+[ 2016-07-26T11:48:20+08:00 ] 0.0.0.0 /ctbri_demo/Enter/Home/testsql2
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: db_dsn D:\zendworkspace\ctbri_demo\ThinkPHP\Lib\Core\Db.class.php 第 127 行.
+NOTIC: [8] Undefined index: db_params D:\zendworkspace\ctbri_demo\ThinkPHP\Lib\Core\Db.class.php 第 128 行.
+SQL: SHOW COLUMNS FROM `ysx_mem_eduinfo` [ RunTime:0.005000s ]
+SQL: SELECT * FROM `ysx_mem_eduinfo`  [ RunTime:0.001000s ]
+
+[ 2016-07-26T17:49:29+08:00 ] 0.0.0.0 /ctbri_demo/Enter/Home/testsql
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.030002s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `think_user_info` [ RunTime:0.617036s ]
+SQL: SELECT * FROM `think_user_info`  [ RunTime:0.064004s ]
+
